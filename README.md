@@ -1,2 +1,2 @@
-# loon-script
+#
 1
